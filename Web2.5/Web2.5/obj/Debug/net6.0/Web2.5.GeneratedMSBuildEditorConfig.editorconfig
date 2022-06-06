@@ -1,0 +1,116 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web2._5
+build_property.RootNamespace = Web2._5
+build_property.ProjectDir = D:\Desktop\Folders\Учеба\Web\Web-tech-labs\Backend\Web2.5\Web2.5\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Desktop\Folders\Учеба\Web\Web-tech-labs\Backend\Web2.5\Web2.5
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Doctors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Doctors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Hospitals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Hospitals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Hospitals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Hospitals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Hospitals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Labs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFic1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Labs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFic1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Labs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFic1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Labs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFic1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Labs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFic1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/Folders/Учеба/Web/Web-tech-labs/Backend/Web2.5/Web2.5/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3t6c13dod7
